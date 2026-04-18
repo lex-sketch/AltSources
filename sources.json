@@ -33,7 +33,7 @@
                     "version": "1.0",
                     "date": "2022-03-16T07:00:00-08:00",
                     "size": 10000000,
-                    "downloadURL": "https://github.com/lex-sketch/Wordle-Freeplay/raw/main/WordleAltStorev.1.ipa",
+                    "downloadURL": "https://github.com/lex-sketch/Wordle-Freeplay/raw/refs/heads/main/wordlefreeplay.ipa",
                     "localizedDescription": "Initial release."
                 }
             ]

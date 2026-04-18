@@ -2,7 +2,7 @@
     "name": "Random",
     "subtitle": "All my apps in one place.",
     "description": "Just random stuff",
-    "iconURL": "ClassicLogo.jpg",
+    "iconURL": "https://github.com/lex-sketch/AltSources/raw/main/ClassicLogo.jpg",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "ohrio.com",
     "tintColor": "#4185A9",

@@ -39,10 +39,10 @@
             ]
         },
         {
-            "name": "Another Example App",
+            "name": "Stop Now",
             "bundleIdentifier": "com.example.anotherapp",
-            "developerName": "Example Developer",
-            "subtitle": "Another awesome app.",
+            "developerName": "Lex Mackey",
+            "subtitle": "See how far you've come to stop your addictions",
             "localizedDescription": "This is another awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
             "tintColor": "#3660A2",

@@ -44,7 +44,7 @@
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
             "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "iconURL": "",
             "tintColor": "#3660A2",
             "screenshots": {
                 "iphone": [
@@ -70,23 +70,6 @@
                 ]
             },
             "versions": [
-                {
-                    "version": "1.2",
-                    "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
-                    "size": 81514,
-                    "minOSVersion": "13.0"
-                },
-                {
-                    "version": "1.1",
-                    "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "16.3"
-                },
                 {
                     "version": "1.0",
                     "date": "2022-02-02T07:00:00-08:00",

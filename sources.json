@@ -1,10 +1,10 @@
 {
-    "name": "Personal",
+    "name": "Random",
     "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "description": "Just random stuff",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
+    "website": "ohrio.com",
     "tintColor": "#4185A9",
     "featuredApps": [
         "ohrio.Wordle-Freeplay",
@@ -14,9 +14,9 @@
         {
             "name": "Wordle Freeplay",
             "bundleIdentifier": "ohrio.Wordle-Freeplay",
-            "developerName": "Joe Mama",
-            "subtitle": "Its like Wordle but with more freedom or something",
-            "localizedDescription": "Only avalible here cuz im poor.",
+            "developerName": "Lex Mackey",
+            "subtitle": "play as much as you'd like",
+            "localizedDescription": "Its like Wordle but with more freedom or something",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
             "screenshots": [
@@ -31,7 +31,7 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
+                    "date": "2026-04-17T07:00:00-08:00",
                     "size": 10000000,
                     "downloadURL": "https://github.com/lex-sketch/Wordle-Freeplay/raw/refs/heads/main/wordlefreeplay.ipa",
                     "localizedDescription": "Initial release."

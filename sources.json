@@ -4,7 +4,7 @@
     "description": "Just random stuff",
     "iconURL": "https://github.com/lex-sketch/AltSources/raw/main/ClassicLogo.jpg",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "ohrio.com",
+    "website": "https://ohrio.com",
     "tintColor": "#4185A9",
     "featuredApps": [
         "ohrio.Wordle-Freeplay",

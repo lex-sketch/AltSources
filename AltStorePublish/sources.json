@@ -44,7 +44,7 @@
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
             "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://example.com/image.png",
+            "iconURL": "AltStorePublish/ASSETS/raw/main/1024x1024-stop.png",
             "tintColor": "#3660A2",
             "screenshots": {
                 "iphone": [
@@ -72,7 +72,7 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "date": "2026-04-23T07:00:00-17:04",
+                    "date": "2026-04-23T07:00:00-17:00",
                     "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821

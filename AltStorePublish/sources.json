@@ -46,7 +46,7 @@
             "localizedDescription": "Only on AltStore.",
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/main/AltStorePublish/ASSETS/1024x1024-stop.png",
             "tintColor": "#3660A2",
-            "screenshots": [{
+            "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
                 "https://example.com/myapp_portrait_screenshot2.png",
                 {
@@ -54,7 +54,7 @@
                     "width": 2556,
                     "height": 1179
                 }
-            }],
+            ],
             "versions": [
                 {
                     "version": "1.0",

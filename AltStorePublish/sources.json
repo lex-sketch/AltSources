@@ -8,7 +8,7 @@
     "tintColor": "#4185A9",
     "featuredApps": [
         "ohrio.Wordle-Freeplay",
-        "Ohrio.Stop-Now"
+        "ohrio.Stop-Now"
     ],
     "apps": [
         {
@@ -40,7 +40,7 @@
         },
         {
             "name": "Stop Now",
-            "bundleIdentifier": "Ohrio.Stop-Now",
+            "bundleIdentifier": "ohrio.Stop-Now",
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
             "localizedDescription": "Only on AltStore.",

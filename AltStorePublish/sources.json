@@ -80,7 +80,7 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    com.apple.security.application-groups
+                    "com.apple.security.application-groups"
                 ],
                 "privacy": {
                     "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."

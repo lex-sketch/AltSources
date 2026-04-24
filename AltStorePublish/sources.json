@@ -80,7 +80,7 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.developer.healthkit"
+                    
                 ],
                 "privacy": {
                     "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."

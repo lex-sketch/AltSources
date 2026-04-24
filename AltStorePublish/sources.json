@@ -43,7 +43,7 @@
             "bundleIdentifier": "Ohrio.Stop-Now",
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
+            "localizedDescription": "Only on AltStore.",
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/main/AltStorePublish/ASSETS/1024x1024-stop.png",
             "tintColor": "#3660A2",
             "screenshots": {
@@ -72,7 +72,7 @@
             "versions": [
                 {
                     "version": "1.0",
-                    "date": "2026-04-23T07:00:00-17:00",
+                    "date": "2026-04-23T07:06:10-06:00",
                     "downloadURL": "https://github.com/lex-sketch/Stop-Now/releases/download/v1.0.0/Stop-Now.ipa",
                     "localizedDescription": "Initial release.",
                     "size": 79821

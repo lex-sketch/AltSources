@@ -8,7 +8,7 @@
     "tintColor": "#4185A9",
     "featuredApps": [
         "ohrio.Wordle-Freeplay",
-        "ohrio.Stop-Now"
+        "Ohrio.Stop-Now"
     ],
     "apps": [
         {
@@ -40,34 +40,20 @@
         },
         {
             "name": "Stop Now",
-            "bundleIdentifier": "ohrio.Stop-Now",
+            "bundleIdentifier": "Ohrio.Stop-Now",
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
             "localizedDescription": "Only on AltStore.",
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/main/AltStorePublish/ASSETS/1024x1024-stop.png",
             "tintColor": "#3660A2",
             "screenshots": {
-                "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
-                    {
-                        "imageURL": "https://example.com/anotherapp_landscape.png",
-                        "width": 2556,
-                        "height": 1179
-                    }
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-                        "width": 1668,
-                        "height": 2388
-                    },
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-                        "width": 2388,
-                        "height": 1668
-                    }
-                ]
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
             },
             "versions": [
                 {

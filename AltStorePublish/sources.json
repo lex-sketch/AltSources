@@ -39,7 +39,7 @@
             ]
         },
         {
-            "name": "Stop Now",
+            "name": "--",
             "bundleIdentifier": "Ohrio.Stop-Now",
             "developerName": "Lex Mackey",
             "subtitle": "See how far you've come to stop your addictions",
@@ -59,7 +59,7 @@
                 {
                     "version": "1.2",
                     "date": "2026-04-23T07:06:40-06:00",
-                    "downloadURL": "https://github.com/lex-sketch/Stop-Now/releases/download/v1.2/StopNowV2.ipa",
+                    "downloadURL": "",
                     "localizedDescription": "Second",
                     "size": 79821
                 },

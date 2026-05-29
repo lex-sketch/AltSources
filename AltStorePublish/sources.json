@@ -8,12 +8,13 @@
     "tintColor": "#4185A9",
     "featuredApps": [
         "ohrio.Wordle-Freeplay",
-        "Ohrio.Stop-Now"
+        "Ohrio.Stop-Now",
+        "Ohrio.Live-Activity-Test"
     ],
     "apps": [
         {
             "name": "Live Banner Test",
-            "bundleIdentifier": "",
+            "bundleIdentifier": "Ohrio.Live-Activity-Test",
             "developerName": "Lex Mackey",
             "subtitle": "null",
             "localizedDescription": "null",

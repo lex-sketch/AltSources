@@ -12,6 +12,33 @@
     ],
     "apps": [
         {
+            "name": "Live Banner Test",
+            "bundleIdentifier": "",
+            "developerName": "Lex Mackey",
+            "subtitle": "null",
+            "localizedDescription": "null",
+            "iconURL": "",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-05-29T07:04:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "",
+                    "localizedDescription": "Initial release."
+                }
+            ]
+        },
+        {
             "name": "Wordle Freeplay",
             "bundleIdentifier": "ohrio.Wordle-Freeplay",
             "developerName": "Lex Mackey",

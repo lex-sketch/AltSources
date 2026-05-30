@@ -34,7 +34,7 @@
                     "version": "1.0",
                     "date": "2026-05-29T07:04:00-08:00",
                     "size": 10000000,
-                    "downloadURL": "",
+                    "downloadURL": "https://example.com",
                     "localizedDescription": "Initial release."
                 }
             ]

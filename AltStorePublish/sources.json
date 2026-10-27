@@ -1,7 +1,7 @@
 {
-    "name": "Random",
-    "subtitle": "All my apps in one place.",
-    "description": "Just random stuff",
+    "name": "CuatroC Apps",
+    "subtitle": "Lex Mackey",
+    "description": "My personal iOS app portfolio",
     "iconURL": "https://github.com/lex-sketch/AltSources/raw/main/ClassicLogo.jpg",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://ohrio.com",
@@ -16,8 +16,8 @@
             "name": "Live Banner Test",
             "bundleIdentifier": "Ohrio.Live-Activity-Test",
             "developerName": "Lex Mackey",
-            "subtitle": "null",
-            "localizedDescription": "null",
+            "subtitle": "Live Activity Functionality Test",
+            "localizedDescription": "App that tests the functionality of Apple's Live Banner feature and the settings available to control it.",
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/Live-Banner-App/refs/heads/main/Live-Activity-Light1024.png",
             "tintColor": "#5CA399",
             "screenshots": [

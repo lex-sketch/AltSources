@@ -82,7 +82,7 @@
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/Largo1024.png",
             "tintColor": "#3660A2",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/LargoAppScreenshot.png",
                 "https://example.com/myapp_portrait_screenshot2.png",
                 {
                     "imageURL": "https://example.com/myapp_landscape_screenshot.png",

@@ -119,6 +119,32 @@
                     "size": 79821
                 }
             ]
+        },
+        {
+            "name": "ToDo!",
+            "bundleIdentifier": "Ohrio.ToDo-",
+            "developerName": "Lex Mackey",
+            "subtitle": "Canvas-style prioritizer app",
+            "localizedDescription": "App that tests the functionality of Apple's Live Banner feature and the settings available to control it.",
+            "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoIconAlt.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-11-13%20at%2021.06.07.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-13T21:21:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://github.com/lex-sketch/Canvas-Prioritizer-iOS-app/releases/download/v1.0/ToDo.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ]
         }
     ],
     "news": [

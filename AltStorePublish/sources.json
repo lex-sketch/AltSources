@@ -126,7 +126,7 @@
             "bundleIdentifier": "Ohrio.ToDo-",
             "developerName": "Lex Mackey",
             "subtitle": "Canvas-style prioritizer app",
-            "localizedDescription": "App that tests the functionality of Apple's Live Banner feature and the settings available to control it.",
+            "localizedDescription": "Canvas To-Do Prioritizer is a student task-organizing prototype for IS 401. Its existing interface presents assignment cards with due dates, estimated time, grade weight, and priority. Students can view tasks in the main list, by class, or in the study view. The calendar and sorting controls help students compare upcoming work. The Module 05 implementation connects the existing completion checkbox to Supabase’s database API. A shared demo account signs in to load synthetic assignments, and the interface changes completion only after the database confirms the saved value. Canvas synchronization remains prototype behavior. The assistant has an OpenAI backend and Supabase history, with its remaining live verification documented below.",
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoIconAlt.png",
             "tintColor": "#5CA399",
             "screenshots": [

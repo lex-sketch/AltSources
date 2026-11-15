@@ -137,6 +137,10 @@
                     "height": 1179
                 }
             ],
+            "appPermissions": {
+                  "entitlements": ["get-task-allow"],
+                  "privacy": {}
+            },
             "versions": [
                 {
                     "version": "1.0",

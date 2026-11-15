@@ -137,10 +137,6 @@
                     "height": 1179
                 }
             ],
-            "appPermissions": {
-                  "entitlements": ["get-task-allow"],
-                  "privacy": {}
-            },
             "versions": [
                 {
                     "version": "1.0.1",
@@ -156,7 +152,11 @@
                     "downloadURL": "https://github.com/lex-sketch/Canvas-Prioritizer-iOS-app/releases/download/v1.0/ToDo.ipa",
                     "localizedDescription": "Initial release."
                 }
-            ]
+            ],
+            "appPermissions": {
+                  "entitlements": ["get-task-allow"],
+                  "privacy": {}
+            },
         }
     ],
     "news": [

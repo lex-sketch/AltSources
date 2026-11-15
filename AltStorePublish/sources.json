@@ -143,6 +143,13 @@
             },
             "versions": [
                 {
+                    "version": "1.0.1",
+                    "date": "2026-11-15T00:49:33-07:00",
+                    "size": 10000000,
+                    "downloadURL": "https://github.com/lex-sketch/Canvas-Prioritizer-iOS-app/releases/download/v1.0.1/ToDo.ipa",
+                    "localizedDescription": "UI imporvements and bug fixes."
+                },
+                {
                     "version": "1.0",
                     "date": "2026-11-13T21:21:00-08:00",
                     "size": 10000000,

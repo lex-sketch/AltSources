@@ -9,7 +9,7 @@
     "featuredApps": [
         "ohrio.Wordle-Freeplay",
         "Ohrio.Largo",
-        "Ohrio.ToDo-"
+        "ohrio.ToDo-"
     ],
     "apps": [
         {
@@ -123,7 +123,7 @@
         },
         {
             "name": "ToDo!",
-            "bundleIdentifier": "Ohrio.ToDo-",
+            "bundleIdentifier": "ohrio.ToDo-",
             "developerName": "Lex Mackey",
             "subtitle": "To-do list prioritizer app that imports from Canvas",
             "localizedDescription": "Canvas To-Do Prioritizer is a student task-organizing prototype for IS 401. Its existing interface presents assignment cards with due dates, estimated time, grade weight, and priority. Students can view tasks in the main list, by class, or in the study view. The calendar and sorting controls help students compare upcoming work. The Module 05 implementation connects the existing completion checkbox to Supabase’s database API. A shared demo account signs in to load synthetic assignments, and the interface changes completion only after the database confirms the saved value. Canvas synchronization remains prototype behavior. The assistant has an OpenAI backend and Supabase history, with its remaining live verification documented below.",

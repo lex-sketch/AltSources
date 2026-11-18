@@ -130,7 +130,10 @@
             "iconURL": "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoIconAlt.png",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/Simulator%20Screenshot%20-%20iPhone%2016e%20-%202026-11-13%20at%2021.06.07.png",
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoScreenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-11-15%20at%2012.33.52.png",
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoScreenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-11-15%20at%2012.39.33.png",
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoScreenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-11-15%20at%2012.39.41.png",
+                "https://raw.githubusercontent.com/lex-sketch/AltSources/refs/heads/main/AltStorePublish/ASSETS/ToDoScreenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-11-15%20at%2012.39.50.png",
                 {
                     "imageURL": "https://example.com/myapp_landscape_screenshot.png",
                     "width": 2556,

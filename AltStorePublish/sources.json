@@ -173,7 +173,7 @@
             "appPermissions": {
                   "entitlements": ["get-task-allow"],
                   "privacy": {}
-            },
+            }
         }
     ],
     "news": [
